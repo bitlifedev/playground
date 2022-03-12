@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<animals>
+    <animal type="cat">
+        <name>Bit</name>
+        <desc>
+            <color>Tabby</color>
+            <size>Massive</size>
+            <cuteness>10</cuteness>
+        </desc>
+    </animal>
+    <animal type="dog">
+        <name>Ugly Dog</name>
+        <desc>
+            <color>Grey</color>
+            <size>Pretty big</size>
+            <cuteness>7</cuteness>
+        </desc>
+    </animal>
+</animals>
