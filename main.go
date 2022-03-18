@@ -1,10 +1,14 @@
 package main
 
 import (
-	"playground/context"
+	"playground/tickers"
 )
 
 func main() {
 	//assertions.Run()
-	context.Run()
+	//context.Run()
+	//pointers.Run()
+	//sorting.Run()
+
+	tickers.Run()
 }
